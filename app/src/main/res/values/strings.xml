@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Todo List</string>
+    <string name="studentDetails">My Todos</string>
+    <string name="sampleText">Sample Text</string>
+</resources>
